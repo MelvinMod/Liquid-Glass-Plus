@@ -2,7 +2,7 @@
 Enhanced Liquid Glass theme for "Better Lyrics" Chrome extension
 
 # How To Install
-In a text editor, open the `.CSS` file, copy everything, and paste it into Better Lyrics' "Custom Style" (Lyrics for YouTube Music).
+In a text editor, open the `.CSS` file, copy everything, and paste it into [Better Lyrics (Lyrics for YouTube Music)](https://chromewebstore.google.com/detail/better-lyrics-lyrics-for/effdbpeggelllpfkjppbokhmmiinhlmg), Custom Style ("Create" button).
 
 ### How to edit settings of `.CSS` file?
 I'm too lazy to write my own comments in the code, so there are AI-generated comments for you (code is not AI generated).
